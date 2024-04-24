@@ -62,8 +62,8 @@ def get_response_2(system_message, prompt, assistant_message = None):
     return response.choices[0].message.content
 
 def get_response_gpt4(system_message, prompt, assistant_message = None):
-    # client = openai.OpenAI(api_key='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')
-    client = openai.OpenAI(api_key='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')
+    # API key
+    client = openai.OpenAI(api_key='your key')
 
 
     response = client.chat.completions.create(
