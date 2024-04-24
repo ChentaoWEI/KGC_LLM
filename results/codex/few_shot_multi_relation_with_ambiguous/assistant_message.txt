@@ -1,0 +1,91 @@
+Examples:
+1. What is the relationship between 'Waylon Jennings' and 'English'?
+Reply: 'Waylon Jennings' [languages spoken, written, or signed] 'English'
+
+2. What is the relationship between 'Dee Dee Bridgewater' and 'Portuguese'?
+Reply: Relationship is ambiguous
+
+3. What is the relationship between 'William Herschel' and 'German Academy of Sciences Leopoldina'?
+Reply: 'William Herschel' [member of] 'German Academy of Sciences Leopoldina'
+
+4. What is the relationship between 'Charles Wheatstone' and 'Royal Society of Edinburgh'?
+Reply: Relationship is ambiguous
+
+5. What is the relationship between 'Arnold Schoenberg' and 'musicologist'?
+Reply: 'Arnold Schoenberg' [occupation] 'musicologist'
+
+6. What is the relationship between 'Korney Chukovsky' and 'playwright'?
+Reply: Relationship is ambiguous
+
+7. What is the relationship between 'Somalia' and 'Pakistan'?
+Reply: 'Somalia' [diplomatic relation] 'Pakistan'
+
+8. What is the relationship between 'North Korea' and 'United States of America'?
+Reply: Relationship is ambiguous
+
+9. What is the relationship between 'Friedrich Engels' and 'Germans'?
+Reply: 'Friedrich Engels' [ethnic group] 'Germans'
+
+10. What is the relationship between 'Al Jolson' and 'English people'?
+Reply: Relationship is ambiguous
+
+11. What is the relationship between 'The Edge' and 'Ireland'?
+Reply: 'The Edge' [country of citizenship] 'Ireland'
+
+12. What is the relationship between 'Lily Allen' and 'Greece'?
+Reply: Relationship is ambiguous
+
+13. What is the relationship between 'Joseph Louis Gay-Lussac' and 'École Polytechnique'?
+Reply: 'Joseph Louis Gay-Lussac' [employer] 'École Polytechnique'
+
+14. What is the relationship between 'Gustav Kirchhoff' and 'Ludwig Maximilian University of Munich'?
+Reply: Relationship is ambiguous
+
+15. What is the relationship between 'Rudolf Christoph Eucken' and 'University of Göttingen'?
+Reply: 'Rudolf Christoph Eucken' [educated at] 'University of Göttingen'
+
+16. What is the relationship between 'Fredric Jameson' and 'Columbia University'?
+Reply: Relationship is ambiguous
+
+17. What is the relationship between 'Margaret Atwood' and 'George Orwell'?
+Reply: 'Margaret Atwood' [influenced by] 'George Orwell'
+
+18. What is the relationship between 'Mel Brooks' and 'George Carlin'?
+Reply: Relationship is ambiguous
+
+19. What is the relationship between 'Ernst Mach' and 'physicist'?
+Reply: 'Ernst Mach' [field of work] 'physicist'
+
+20. What is the relationship between 'Jada Pinkett Smith' and 'chemistry'?
+Reply: Relationship is ambiguous
+
+21. What is the relationship between 'Nelly Furtado' and 'rhythm and blues'?
+Reply: 'Nelly Furtado' [genre] 'rhythm and blues'
+
+22. What is the relationship between 'AJ Michalka' and 'contemporary R&B'?
+Reply: Relationship is ambiguous
+
+23. What is the relationship between 'Mick Ronson' and 'Epic'?
+Reply: 'Mick Ronson' [record label] 'Epic'
+
+24. What is the relationship between 'Ayọ' and 'Warner Music Group'?
+Reply: Relationship is ambiguous
+
+25. What is the relationship between 'Alice Cooper' and 'voice'?
+Reply: 'Alice Cooper' [instrument] 'voice'
+
+26. What is the relationship between 'Brian Molko' and 'percussion instrument'?
+Reply: Relationship is ambiguous
+
+27. What is the relationship between 'Woody Guthrie' and 'New York City'?
+Reply: 'Woody Guthrie' [place of death] 'New York City'
+
+28. What is the relationship between 'Heinrich Wilhelm Gottfried von Waldeyer-Hartz' and 'Cambridge'?
+Reply: Relationship is ambiguous
+
+29. What is the relationship between 'Charles Bukowski' and 'agnosticism'?
+Reply: 'Charles Bukowski' [religion] 'agnosticism'
+
+30. What is the relationship between 'Henry Kissinger' and 'Islam'?
+Reply: Relationship is ambiguous
+

@@ -1,0 +1,16 @@
+Dorodnitsyn Computing Centre (Russian: Вычислительный центр им. А. А. Дородницына РАН) was established in 1955 and became a leading research institute of the Russian Academy of Sciences of the Soviet Union.  Its areas of research include:
+
+Computational Fluid Dynamics
+Mathematical Physics
+Mathematical modeling of Climatic Ecological Processes and other Nonlinear Phenomena
+Solid mechanics and Elastic-Plastic Problems
+Pattern Recognition and Image Analysis
+Computer Aided Design
+Optimization Methods, Linear and Nonlinear programming
+Analytical mechanics and Lyapunov's Stability of Motion
+Rigid body dynamics and Space Dynamics
+Interactive Optimization and Decision support systems
+Parallel Computing
+Artificial Intelligence
+Mathematical modeling of Economic Processes
+Software developmentThe prestigious Journal of Computational Mathematics and Mathematical Physics has been published by the Computing Centre since 1960.

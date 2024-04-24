@@ -1,0 +1,2 @@
+Terry Archer Welch was an American computer scientist. Along with Abraham Lempel and Jacob Ziv, he developed the lossless Lempel–Ziv–Welch (LZW) compression algorithm, which was published in 1984.
+

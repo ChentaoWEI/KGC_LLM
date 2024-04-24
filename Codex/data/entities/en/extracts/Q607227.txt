@@ -1,0 +1,3 @@
+John Charles Butcher  (born 31 March 1933) is a New Zealand mathematician who specialises in numerical methods for the solution of ordinary differential equations.
+Butcher works on multistage methods for initial value problems, such as Runge-Kutta and general linear methods. The Butcher group and the Butcher tableau are named after him.
+More recently, he is investigating a new type of method with stability identical to that of a Runge-Kutta method.

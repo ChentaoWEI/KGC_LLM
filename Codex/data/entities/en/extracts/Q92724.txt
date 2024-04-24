@@ -1,0 +1,1 @@
+David Galer Kirkpatrick is a Professor Emeritus of computer science at the University of British Columbia.  He is known for the Kirkpatrick–Seidel algorithm and his work on polygon triangulation, and for co-inventing α-shapes and the β-skeleton. He received his PhD from the University of Toronto in 1974.

@@ -1,0 +1,3 @@
+Robert W "Bob" Floyd (June 8, 1936 – September 25, 2001) was a computer scientist.
+His contributions include the design of the Floyd–Warshall algorithm (independently of Stephen Warshall), which efficiently finds all shortest paths in a graph, Floyd's cycle-finding algorithm for detecting cycles in a sequence, and his work on parsing. In one isolated paper he introduced the important concept of error diffusion for rendering images, also called Floyd–Steinberg dithering (though he distinguished dithering from diffusion). One achievement was pioneering the field of program verification using logical assertions with the 1967 paper Assigning Meanings to Programs. This was a contribution to what later became Hoare logic.
+Floyd received the Turing Award in 1978.

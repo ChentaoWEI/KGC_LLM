@@ -1,0 +1,6 @@
+Henri Pitot (French: [ɑ̃ʁi pito]; May 3, 1695 – December 27, 1771) was a French hydraulic engineer and the inventor of the Pitot tube.
+In a pitot tube, the height of the fluid column is proportional to the square of the velocity of the fluid at the depth of the inlet to the pitot tube. This relationship was discovered by Henri Pitot in 1732, when he was assigned the task of measuring the flow in the river Seine.
+He rose to fame with the design of the Aqueduc de Saint-Clément near Montpellier (the construction lasted thirteen years), and the extension of Pont du Gard in Nîmes. In 1724, he became a member of the French Academy of Sciences, and in 1740 a fellow of the Royal Society.
+The Pitot theorem of plane geometry is named after him.
+Rue Henri Pitot in Carcassonne is named after him.
+

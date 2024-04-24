@@ -1,0 +1,1 @@
+Eric Paul Allman (born September 2, 1955) is an American computer programmer who  developed sendmail and its precursor delivermail in the late 1970s and early 1980s at UC Berkeley. In 1998, Allman and Greg Olson co-founded the company Sendmail, Inc.

@@ -1,0 +1,1 @@
+David H. D. Warren is a computer scientist who worked primarily on logic programming and in particular the programming language Prolog in the 1970s and 1980s. Warren wrote the first compiler for Prolog, and the Warren Abstract Machine execution environment for Prolog is named after him.

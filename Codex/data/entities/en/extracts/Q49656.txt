@@ -1,0 +1,2 @@
+Benjamin Mako Hill (born December 2, 1980) is a free software activist, hacker, and author. He is a contributor and free software developer as part of the Debian and Ubuntu projects as well as the co-author of three technical manuals on the subject, Debian GNU/Linux 3.1 Bible, The Official Ubuntu Server Book, and The Official Ubuntu Book.
+Hill is an assistant professor in Communication at the University of Washington, and serves as a member of the Free Software Foundation board of directors.

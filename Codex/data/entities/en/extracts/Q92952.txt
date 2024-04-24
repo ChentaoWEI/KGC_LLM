@@ -1,0 +1,2 @@
+Peter John Landin (5 June 1930 – 3 June 2009) was a British computer scientist. He was one of the first to realise that the lambda calculus could be used to model a programming language, an insight that is essential to development of both functional programming and denotational semantics.
+

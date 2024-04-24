@@ -1,0 +1,2 @@
+Ingo Molnár, employed by Red Hat as of May 2013, is a Hungarian Linux hacker. He is best known for his contributions to the operating system in terms of security and performance.
+

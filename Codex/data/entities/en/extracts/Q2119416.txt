@@ -1,0 +1,5 @@
+Nikolay Alekseyevich Pilyugin (Russian: Никола́й Алексее́вич Пилю́гин; May 5(OS) (May 18(NS)), 1908, Krasnoye Selo - August 2, 1982) was Soviet chief designer of rocket guidance systems.
+He was a designer of control systems for boosters and spacecraft.
+He participated in design of the first ICBM "R-7" and Soviet space shuttle Buran.
+A graduate of the Baumann higher technical school (MVTU), Pilyugin worked at the Zhukovsky Central Institute of Aerohydrodynamics (TsAGI) starting in 1934, then joined RNII the Institute of Jet Propulsion.  In 1945, he joined Boris Chertok at the RABE institute in Germany, studying the design of the V-2 and other Nazi weaponry.
+In 1946, he along with Mikhail Ryazansky headed the newly formed NII-885.  Pilyugin developed gyroscopic guidance control systems and flight control computers for Soviet rockets beginning with the R-1 (a copy of the V-2).

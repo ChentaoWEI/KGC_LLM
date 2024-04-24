@@ -1,0 +1,3 @@
+Zeev Suraski (Hebrew: זאב סורסקי‎ pronounced [zeˈʔev suˈʁaski]) is an Israeli programmer, PHP developer and co-founder of Zend Technologies. A graduate of the Technion in Haifa, Israel, Suraski and Andi Gutmans created PHP 3 in 1997. In 1999 they wrote the Zend Engine, the core of PHP 4, and founded Zend Technologies, which has since overseen PHP advances. The name Zend is a portmanteau of their forenames, Zeev and Andi.
+Suraski is an emeritus member of the Apache Software Foundation, and was nominated for the FSF Award for the Advancement of Free Software in 1999. Zeev Suraski is the CTO for Zend Technologies.
+He was the lead contributor to PHP since 1997.

@@ -1,0 +1,7 @@
+Damien Sandras is known in the free software community due to his work on GNOME, more specifically on Ekiga, the leading Open Source softphone for the Linux desktop.  He is one of the founders of FOSDEM, an event dedicated to free software developers in Europe. 
+FOSDEM was initially created by Raphaël Bauduin under the name OSDEM. Sandras joined Bauduin and helped him setting up the event. Sandras was one of the driving forces behind the organization during 7 years.Ekiga was supported by the Free Software Foundation and more specifically by Richard Stallman as an alternative to the proprietary Skype. Stallman's e-mail signature contained a mention to the softphone during a few years: 
+
+ Skype: No way! That's nonfree (freedom-denying) software.
+    Use Ekiga or an ordinary phone call.
+
+Sandras is a graduate of the University of Louvain (UCLouvain). He is mentioned on the university portal in the University Success Stories.He is now leading Be IP, a startup dealing with enterprise Open Source VoIP software.

@@ -1,0 +1,6 @@
+Examples:
+Input: "'Apple' [is] 'Fruit'"
+Output: True. Reason: Apples are widely recognized as a type of fruit, which is a common-sense fact.
+
+Input: "'Sun' [orbits] 'Earth'"
+Output: False. Reason: According to modern astronomy, the Earth orbits the Sun, not the other way around.

@@ -1,0 +1,1 @@
+Rémy Card is a French software developer who is credited as one of the primary developers of the Extended file system (ext) and Second Extended file system (ext2) for Linux.

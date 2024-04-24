@@ -1,0 +1,4 @@
+Edmund Melson Clarke, Jr. (born July 27, 1945) is an American retired computer scientist and academic noted for developing
+model checking, a method for formally verifying hardware and software designs.
+He is the FORE Systems Professor of Computer Science Emeritus at Carnegie Mellon University.  Clarke, along with E. Allen Emerson and Joseph Sifakis, is a recipient of the 2007 Association for Computing Machinery A.M. Turing Award.
+

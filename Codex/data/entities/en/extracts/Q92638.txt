@@ -1,0 +1,2 @@
+Robert Endre Tarjan (born April 30, 1948) is an American computer scientist and mathematician.  He is the discoverer of several graph algorithms, including Tarjan's off-line lowest common ancestors algorithm, and co-inventor of both splay trees and Fibonacci heaps. Tarjan is currently the James S. McDonnell Distinguished University Professor of Computer Science at Princeton University, and the Chief Scientist at Intertrust Technologies Corporation.
+

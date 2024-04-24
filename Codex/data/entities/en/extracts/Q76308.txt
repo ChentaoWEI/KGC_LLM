@@ -1,0 +1,2 @@
+Günter Hotz (born 16 November 1931) is a German pioneer of computer science. His work includes formal languages, digital circuits
+and computational complexity theory. In 1987, he received the Gottfried Wilhelm Leibniz Prize of the Deutsche Forschungsgemeinschaft, which is the highest honour awarded in German research.  In 1999 he was awarded the Konrad Zuse Medal of the Gesellschaft für Informatik.Hotz received his PhD in 1958 at Göttingen.  His advisor was Kurt Reidemeister.

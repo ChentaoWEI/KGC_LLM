@@ -1,0 +1,2 @@
+Róbert Szelepcsényi (Slovak pronunciation: [ˈɾɔːbɛɾt ˈsɛlɛptʃɛːɲi]; born 19 August 1966, Žilina) is a Slovak computer scientist of Hungarian descent and a member of the Faculty of Mathematics, Physics and Informatics of Comenius University in Bratislava.
+His results on the closure of non-deterministic space under complement, independently obtained in 1987 also by Neil Immerman (the result known as the Immerman–Szelepcsényi theorem), brought the Gödel Prize of ACM and EATCS to both of them in 1995.

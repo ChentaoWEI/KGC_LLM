@@ -1,0 +1,1 @@
+David Lorge Parnas (born February 10, 1941) is a Canadian early pioneer of software engineering, who developed the concept of information hiding in modular programming, which is an important element of object-oriented programming today.  He is also noted for his advocacy of precise documentation.

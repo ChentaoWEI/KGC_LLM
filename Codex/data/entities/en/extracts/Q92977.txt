@@ -1,0 +1,8 @@
+Norman Manuel Abramson (April 1, 1932) is an American engineer and computer scientist, most known for developing the ALOHAnet system for wireless computer communication.
+Born in Boston, Massachusetts, he received an A.B. in physics from Harvard University (1953),  an M.A. in Physics from UCLA (1955), and a Ph.D. in electrical engineering from Stanford University (1958).
+Abramson was a research engineer at the Hughes Aircraft Company until 1955, when he joined the
+faculty at Stanford University (1955–65), was visiting professor at University of California at Berkeley (1966), before moving to University of Hawaii (1968–94), serving as professor of both Electrical Engineering and Computer Science, and  Director of Aloha Systems.
+In 1994 Abramson co-founded Aloha Networks in San Francisco, where he served as a CTO.
+His early research concerned radar signal characteristics and sampling theory,
+as well as frequency modulation and digital communication channels, error correcting codes,pattern recognition and machine learning and computing for seismic analysis.
+In the late 1960s he worked on the ALOHAnet and continued to  develop spread spectrum techniques in the 1980s.

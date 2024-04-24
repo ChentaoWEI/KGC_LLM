@@ -1,0 +1,3 @@
+Keith Packard (born April 16, 1963) is a software developer, best known for his work on the X Window System.
+Packard is responsible for many X extensions and technical papers on X. He has been heavily involved in the development of X since the late 1980s as a member of the MIT X Consortium, XFree86 and the X.Org Foundation.
+In 2011, O'Reilly awarded an open source award to Packard, as "the person behind most of the improvements made on the open source desktop in the last ten years at least." He is portrayed as one of the Faces of Open Source.

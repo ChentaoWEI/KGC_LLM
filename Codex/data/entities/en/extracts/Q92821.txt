@@ -1,0 +1,6 @@
+E. Allen Emerson (born June 2, 1954) is an American computer scientist. He is Professor and
+Regents Chair Emeritus at the University of Texas, Austin, United States.
+He won the 2007 A.M. Turing Award along with Edmund M. Clarke and Joseph Sifakis for the invention and
+development of Model checking.
+He is also the recipient of the 1998 ACM Paris Kanellakis Award Theory and Practice Award for Symbolic Model Checking.He received his BS degree in mathematics from the University of Texas, Austin in 1976 and his PhD degree in applied mathematics at Harvard University in 1981.
+

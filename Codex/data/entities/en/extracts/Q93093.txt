@@ -1,0 +1,7 @@
+Jacek Karpiński (9 April 1927 –  21 February 2010) was a Polish pioneer in computer engineering and computer science.
+During World War II, he was a soldier in the Batalion Zośka of the Polish Home Army, and was awarded multiple times with a Cross of Valour. He took part in Operation Kutschera (intelligence) and the Warsaw Uprising, where he was heavily wounded.
+Later, he became a developer of one of the first machine learning algorithms, techniques for character and image recognition.
+After receiving a UNESCO award in 1960, he travelled for several years around the academic centres in the United States, including MIT, Harvard, Caltech, and many others.
+In 1971, he designed one of the first minicomputers, the K-202. Because of the policy on computer development in the People's Republic of Poland, belonging to the Comecon that time, the K-202 was never mass-produced.
+Karpiński later became a pig farmer, and in 1981, after receiving a passport, emigrated to Switzerland.
+He also founded the Laboratory for Artificial Intelligence of the Polish Academy of Sciences in the early 1960s.

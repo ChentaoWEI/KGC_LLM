@@ -1,0 +1,2 @@
+David Heinemeier Hansson (born 15 October 1979) is a Danish programmer, racing driver and the creator of the popular Ruby on Rails web development framework and the Instiki wiki. He is also a partner at the web-based software development firm Basecamp. 
+Hansson co-wrote Agile Web Development with Rails with Dave Thomas in 2005 as part of The Facets of Ruby Series. He also co-wrote Getting Real, Rework, Remote, and It Doesn't Have to Be Crazy at Work with Jason Fried.

@@ -1,0 +1,3 @@
+Walter F. Tichy (born April 22, 1952 in Bad Reichenhall) is a German computer scientist. He is professor of computer science at the Karlsruhe Institute of Technology in Germany where he teaches classes in software engineering.
+To the larger software development community he is best known as the initial developer of the RCS revision control system. However, he has also written highly cited works on experimental software engineering, the string-to-string correction problem, software configuration management, and extreme programming.
+

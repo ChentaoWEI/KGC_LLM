@@ -1,0 +1,1 @@
+Tim Paterson (born 1 June 1956) is an American computer programmer, best known for creating 86-DOS, an operating system for the Intel 8086. This system emulated the application programming interface (API) of CP/M, which was created by Gary Kildall. 86-DOS later formed the basis of MS-DOS, the most widely used personal computer operating system in the 1980s.

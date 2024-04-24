@@ -1,0 +1,5 @@
+Damian Conway (born 5 October 1964 in Melbourne, Australia) is a computer scientist, a member of the Perl and Raku communities, a public speaker, and the author of several books. Until 2010, he was also an adjunct associate professor in the Faculty of Information Technology at Monash University.
+Damian completed his BSc (with honours) and PhD at Monash. He is perhaps best known for his contributions to Comprehensive Perl Archive Network (CPAN) and Raku (Perl 6) language design, and his training courses, both on programming techniques and public speaking skills.
+He has won the Larry Wall Award three times for CPAN contributions. His involvement in Perl 6 language design has been as an interlocutor and explicator of Larry Wall.
+He is one of the authors of the Significantly Prettier and Easier C++ Syntax (SPEC).
+

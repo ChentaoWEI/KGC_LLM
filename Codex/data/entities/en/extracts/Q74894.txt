@@ -1,0 +1,2 @@
+Martin Fowler (born 1963) is a British software developer, author and international public speaker on software development, specialising in object-oriented analysis and design, UML, patterns, and agile software development methodologies, including extreme programming.
+His 1999 book Refactoring popularised the practice of code refactoring. In 2004 he introduced Presentation Model (PM), an architectural pattern.

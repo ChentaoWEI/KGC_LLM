@@ -1,0 +1,4 @@
+Robert William Scheifler (born June 24, 1954, Kirkwood, Missouri) is an American computer scientist. He is most notable for leading the development of the X Window System from the project's inception in 1984 until the closure of the MIT X Consortium in 1996.   He later
+became one of the architects of the Jini architecture at Sun Microsystems.Bob has stated that his goal in developing the X Window System was to raise the floor in windowing systems for the entire market, and despite its early adoption primarily by commercial players with proprietary extensions, X ended up as a standard, open system. X is an important part of Linux to this day.  
+Scheifler holds a B.S. in Mathematics and an M.S. in computer science from the Massachusetts Institute of Technology.
+

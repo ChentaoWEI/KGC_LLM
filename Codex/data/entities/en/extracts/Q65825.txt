@@ -1,0 +1,4 @@
+Not to be confused with Molière.
+Richard Mollier (German: [mɔˈli̯eː]; 30 November 1863, Triest – 13 March 1935, Dresden) was a German professor of Applied Physics and Mechanics in Göttingen and Dresden, a pioneer of experimental research in thermodynamics, particularly for water, steam, and moist air.
+Mollier diagrams (enthalpy-entropy charts) are routinely used by engineers in the design work associated with power plants (fossil or nuclear), compressors, steam turbines, refrigeration systems, and air conditioning equipment to visualize the working cycles of thermodynamic systems.
+The Mollier diagram (h–s chart) of enthalpy of moist air versus its water vapor content (h–x diagram) is equivalent to the Psychrometrics Chart commonly used in the USA and Britain.

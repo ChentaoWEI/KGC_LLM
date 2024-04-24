@@ -1,0 +1,31 @@
+Dmitrii Ivanovich Zhuravskii (1821–1891) was a Russian engineer who was one of the pioneers of bridge construction and structural mechanics in Russia.
+Zhuravskii attended the Nezhin lycée and entered the St. Petersburg Institute of the Corps of Railroad Engineers where he was influenced by the academician Mikhail Ostrogradsky. He graduated from the institute as first in his class in 1842.In the beginning of his career he took part in the surveying and planning of the Moscow – Saint Petersburg Railway. In 1857-58 he led the reconstruction of the Peter and Paul Cathedral in Saint Petersburg. In 1871–76 he took part in the reconstruction of the Mariinsky Canal SystemHe was awarded the prestigious Demidov Prize in 1855 by the Russian Academy of Sciences.
+The Zhuravskii Shear Stress formula is named after him (derived it in 1855):
+
+  
+    
+      
+        τ
+        =
+        
+          
+            
+              V
+              Q
+            
+            
+              I
+              t
+            
+          
+        
+        ,
+      
+    
+    {\displaystyle \tau ={VQ \over It},}
+  where
+
+V = total shear force at the location in question;
+Q = statical moment of area;
+t = thickness in the material perpendicular to the shear;
+I = Moment of Inertia of the entire cross sectional area.

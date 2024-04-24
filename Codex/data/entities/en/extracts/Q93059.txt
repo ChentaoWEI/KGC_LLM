@@ -1,0 +1,1 @@
+Scott Douglas Meyers (born April 9, 1959) is an American author and software consultant, specializing in the C++ computer programming language. He is known for his Effective C++ book series. During his career, he was a frequent speaker at conferences and trade shows.

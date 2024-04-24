@@ -1,0 +1,2 @@
+Rafael Bombelli (baptised on 20 January 1526; died 1572) was an Italian mathematician. Born in Bologna, he is the author of a treatise on algebra and is a central figure in the understanding of imaginary numbers.
+He was the one who finally managed to address the problem with imaginary numbers. In his 1572 book, L'Algebra, Bombelli solved equations using the method of del Ferro/Tartaglia. He introduced the rhetoric that preceded the representative symbols +i and -i and described how they both worked.

@@ -1,0 +1,9 @@
+Maurice Leblanc (1857 – 1923) was a French engineer and industrialist.
+Born in Paris, Leblanc worked primarily in improving induction motors and alternators. He also invented an improved vacuum pump and worked in the area of refrigeration.
+The December 1, 1880 French publication "La Lumière électrique", published an article by Leblanc entitled "Etude sur la transmission électrique des impressions lumineuses". In this article Leblanc outlined five functions required for a television system.
+
+a transducer to convert light into electricity
+a scanner to break up a picture into its constituent parts
+a method of synchronising the receiver and the transmitter
+a means of converting electrical signals back into light
+a screen for viewing the imageLeblanc was awarded the Prix Poncelet for 1913 by the French Academy of Sciences.

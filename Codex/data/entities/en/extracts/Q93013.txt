@@ -1,0 +1,2 @@
+Fabrice Bellard (French pronunciation: ​[fa.bʁis bɛ.laʁ]) is a computer programmer who created the FFmpeg, QEMU, and Tiny C Compiler software projects. He also developed Bellard's formula for calculating single digits of pi.
+

@@ -1,0 +1,5 @@
+A gram-negative bacterial infection is a disease caused by gram-negative bacteria such as E. coli.This class is defined morphologically (by the presence of a bacterial outer membrane), and not histologically (by a pink appearance when stained, though the two usually coincide.
+One reason for this division is that the outer membrane is of major clinical significance: it can play a role in the reduced effectiveness of certain antibiotics, and it is the source of endotoxin.The gram status of some organisms is complex or disputed:
+
+Mycoplasma are sometimes considered gram-negative, but because of its lack of a cell wall and unusual membrane composition, it is sometimes considered separately from other gram-negative bacteria.
+Gardnerella is often considered gram-negative, but it is classified in MeSH as both gram-positive and gram-negative. It has some traits of gram-positive bacteria, but has a gram-negative appearance. It has been described as a "gram-variable rod".

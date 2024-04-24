@@ -1,0 +1,5 @@
+Erich Gamma (born 1961 in Zürich) is a Swiss computer scientist.
+He was one of the Gang of Four authors of the influential software engineering textbook, Design Patterns: Elements of Reusable Object-Oriented Software. 
+He is an expert in the Eclipse Java development editor, and  with Kent Beck he co-wrote the JUnit software testing framework which helped create Test-Driven Development and influenced the whole software industry.  He also led the design of the Eclipse platform's Java Development Tools (JDT), and worked on the IBM Rational Jazz project.
+In 2011 he joined the Microsoft Visual Studio team and leads a development lab in Zürich, Switzerland that has developed the "Monaco" suite of components for browser-based development, found in products such as Visual Studio Team Services (formerly Visual Studio Online), Visual Studio Code, Azure Mobile Services, Azure Web Sites, and the Office 365 Development tools.
+

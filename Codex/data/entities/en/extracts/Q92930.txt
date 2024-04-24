@@ -1,0 +1,1 @@
+Theodore Yue Tak Ts'o (曹子德) (born 1968) is a software engineer mainly known for his contributions to the Linux kernel, in particular his contributions to file systems.  He is the primary developer and maintainer of e2fsprogs, the userspace utilities for the ext2, ext3 and ext4 filesystems, and is a maintainer for the ext4 file system.

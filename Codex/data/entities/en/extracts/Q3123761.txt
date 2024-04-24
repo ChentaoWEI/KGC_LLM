@@ -1,0 +1,5 @@
+Gérard Philippe Berry (born 25 December 1948) is a French computer scientist, member of the French Academy of Sciences (Académie des sciences), French Academy of Technologies (Académie des technologies), and Academia Europaea. He was the Chief Scientist Officer of Esterel Technologies from 2000 to 2009. He held the 2007-2008 yearly Liliane Bettencourt chair of Technological Innovation at the Collège de France. He is currently Director of Research at INRIA and is holding the 2009-2010 yearly Informatics and Digital Sciences chair at the Collège de France. Berry's work, which spans over more than 30 years, brought important contributions to three main fields:
+
+lambda calculus and functional programming
+parallel and real-time programming languages
+design automation for synchronous digital circuitsBerry is known for the Esterel programming language.

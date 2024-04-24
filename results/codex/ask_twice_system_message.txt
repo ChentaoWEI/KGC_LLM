@@ -1,0 +1,2 @@
+Your task is to verify whether the relationship between two entities exist or not in a knowledge graph based on common sense. Given a triple formulated as "'Entity 1' [relationship] 'Entity 2'", provide "True" or "False" based on your knowledge and your reason. Format your response as "{True/False}. Reason:...".
+You need to think carefully to get your answer.

@@ -1,0 +1,82 @@
+Examples:
+1. What is the relationship between 'sicily' and 'palermo'?
+Reply: 'sicily' [has part] 'palermo'
+
+2. What is the relationship between 'rosaceae' and 'genus_agrimonia'?
+Reply: 'rosaceae' [member meronym] 'genus_agrimonia'
+
+3. What is the relationship between 'teutoburger_wald' and 'pitched_battle'?
+Reply: 'teutoburger_wald' [instance hypernym] 'pitched_battle'
+
+4. What is the relationship between 'impala_lily' and 'shrub'?
+Reply: 'impala_lily' [hypernym] 'shrub'
+
+5. What is the relationship between 'observer' and 'commentate'?
+Reply: 'observer' [derivationally related form] 'commentate'
+
+6. What is the relationship between 'virtuous' and 'pious'?
+Reply: 'virtuous' [also see] 'pious'
+
+7. What is the relationship between 'musical_notation' and 'music'?
+Reply: 'musical_notation' [synset domain topic of] 'music'
+
+8. What is the relationship between 'wild_calla' and 'marsh_plant'?
+Reply: 'wild_calla' [hypernym] 'marsh_plant'
+
+9. What is the relationship between 'gramineae' and 'dactylis'?
+Reply: 'gramineae' [member meronym] 'dactylis'
+
+10. What is the relationship between 'metabolism' and 'organic_process'?
+Reply: 'metabolism' [hypernym] 'organic_process'
+
+11. What is the relationship between 'relate' and 'interrelation'?
+Reply: 'relate' [derivationally related form] 'interrelation'
+
+12. What is the relationship between 'track' and 'train'?
+Reply: 'track' [derivationally related form] 'train'
+
+13. What is the relationship between 'concave' and 'concave_shape'?
+Reply: 'concave' [derivationally related form] 'concave_shape'
+
+14. What is the relationship between 'request' and 'petition'?
+Reply: 'request' [derivationally related form] 'petition'
+
+15. What is the relationship between 'trade_name' and 'chlordiazepoxide'?
+Reply: 'trade_name' [member of domain usage] 'chlordiazepoxide'
+
+16. What is the relationship between 'vanadium' and 'metallic_element'?
+Reply: 'vanadium' [hypernym] 'metallic_element'
+
+17. What is the relationship between 'steer' and 'guidance'?
+Reply: 'steer' [derivationally related form] 'guidance'
+
+18. What is the relationship between 'sexual_love' and 'sexual_activity'?
+Reply: 'sexual_love' [hypernym] 'sexual_activity'
+
+19. What is the relationship between 'superior' and 'leader'?
+Reply: 'superior' [hypernym] 'leader'
+
+20. What is the relationship between 'fall' and 'disappear'?
+Reply: 'fall' [hypernym] 'disappear'
+
+21. What is the relationship between 'prepossessing' and 'attractive'?
+Reply: 'prepossessing' [similar to] 'attractive'
+
+22. What is the relationship between 'transformer' and 'electrical_device'?
+Reply: 'transformer' [hypernym] 'electrical_device'
+
+23. What is the relationship between 'penance' and 'absolution'?
+Reply: 'penance' [has part] 'absolution'
+
+24. What is the relationship between 'bear' and 'hold'?
+Reply: 'bear' [verb group] 'hold'
+
+25. What is the relationship between 'united_kingdom' and 'remembrance_day'?
+Reply: 'united_kingdom' [member of domain region] 'remembrance_day'
+
+26. What is the relationship between 'sudden_infant_death_syndrome' and 'sleep_apnea'?
+Reply: 'sudden_infant_death_syndrome' [hypernym] 'sleep_apnea'
+
+27. What is the relationship between 'swerve' and 'curve'?
+Reply: 'swerve' [derivationally related form] 'curve'
+

@@ -1,0 +1,3 @@
+Jim Kajiya is a pioneer in the field of computer graphics. He is perhaps best known for the development of the rendering equation.
+Kajiya received his PhD from the University of Utah in 1979, was a professor at Caltech from 1979 through 1994, and is currently a researcher at Microsoft Research.
+

@@ -1,0 +1,3 @@
+L Peter Deutsch (born Laurence Peter Deutsch on August 7, 1946, in Boston, Massachusetts) is the founder of Aladdin Enterprises and creator of Ghostscript, a free software PostScript and Portable Document Format interpreter.
+Deutsch's other work includes the Smalltalk implementation that inspired Java just-in-time compilation technology about 15 years later.
+

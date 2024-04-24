@@ -1,0 +1,2 @@
+Michael Howard Kay Ph.D FBCS (born 11 October 1951) is the editor of the W3C XSLT 2.0 and 3.0 language specifications for performing XML transformations, and the developer of the Saxon XSLT and XQuery processing software.
+

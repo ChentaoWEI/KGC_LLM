@@ -1,0 +1,10 @@
+Teuvo Kalevi Kohonen (born July 11, 1934) is a prominent Finnish academic (Dr. Eng.) and researcher. He is currently professor emeritus of the Academy of Finland.
+Prof. Kohonen has made many contributions to the field of artificial neural networks, including the Learning Vector Quantization algorithm, fundamental theories of distributed associative memory and optimal associative mappings, the learning subspace method and novel algorithms for symbol processing like redundant hash addressing. He has published several books and over 300 peer-reviewed papers.
+His most famous contribution is the Self-Organizing Map (also known as the Kohonen map or  Kohonen artificial neural networks, although Kohonen himself prefers SOM). Due to the popularity of the SOM algorithm in many research and in practical applications, Kohonen is often considered to be the most cited Finnish scientist. The current version of the SOM bibliography contains close to 8000 entries.
+Most of his career, Prof. Kohonen conducted research at Helsinki University of Technology (TKK). The Neural Networks Research Centre of TKK, a center of excellence appointed by Academy of Finland was founded to conduct research related to Teuvo Kohonen's innovations. After Kohonen's retirement, the center has been led by Prof. Erkki Oja and later renamed to Adaptive Informatics Research Centre with widened foci of research.
+Teuvo Kohonen was elected the First Vice President of the International Association for Pattern Recognition from 1982 to 1984, and acted as the first president of the European Neural Network Society from 1991 to 1992.
+For his scientific achievements, Prof. Kohonen has received a number of prizes including the following:
+
+IEEE Neural Networks Council Pioneer Award, 1991
+Technical Achievement Award of the IEEE Signal Processing Society, 1995
+IEEE Frank Rosenblatt Award, 2008

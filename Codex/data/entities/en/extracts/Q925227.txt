@@ -1,0 +1,2 @@
+Eugene Nalimov (born Евгений Викторович Нали́мов (Yevgeny Viktorovich Nalimov) in 1965 in Novosibirsk, U.S.S.R.) is a chess programmer and former Microsoft employee, currently working for Context Relevant.
+Starting in 1998, he wrote a tablebase generator which included many different endgames. He received a ChessBase award at the ChessBase meeting in Maastricht in 2002 for his work.Nalimov has an M.Sc. from Novosibirsk State University. He started a Ph.D. dissertation, but did not finish it.

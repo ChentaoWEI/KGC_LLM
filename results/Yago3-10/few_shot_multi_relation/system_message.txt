@@ -1,0 +1,3 @@
+Your task is to predict the relationship between two entities in a knowledge graph. Given a pair of entities, provide all possible relationships between them based on common knowledge. 
+In your response, relationships with higher probabilities should be ranked closer to the top.
+Format your response as "1.Entity1 [Relationship1] Entity2; 2. Entity1 [Relationship2] Entity2; 3. Entity1 [Relationship3] Entity2; ...". 

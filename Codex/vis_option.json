@@ -1,0 +1,57 @@
+{
+  "nodes": {
+    "borderWidth": 2,
+    "size": 20,
+    "color": {
+      "border": "rgba(255,255,255,1)",
+      "background": "rgba(0,124,255,0.85)",
+      "highlight": {
+        "border": "rgba(255,255,255,1)",
+        "background": "rgba(255,0,0,0.85)"
+      },
+      "hover": {
+        "border": "rgba(255,255,255,1)",
+        "background": "rgba(255,255,255,0.85)"
+      }
+    },
+    "font": {
+      "color": "rgba(255,255,255,1)"
+    }
+  },
+  "edges": {
+    "color": {
+      "color": "rgba(255,255,255,1)",
+      "highlight": "rgba(255,0,0,0.85)",
+      "hover": "rgba(255,255,255,0.85)",
+      "inherit": true,
+      "opacity": 0.8
+    },
+    "smooth": false,
+    "arrows": {
+      "to": { "enabled": true, "scaleFactor": 1 }
+    }
+  },
+  "physics": {
+    "forceAtlas2Based": {
+      "gravitationalConstant": -26,
+      "centralGravity": 0.005,
+      "springLength": 230,
+      "springConstant": 0.18
+    },
+    "maxVelocity": 146,
+    "solver": "forceAtlas2Based",
+    "timestep": 0.35,
+    "stabilization": {
+      "enabled": true,
+      "iterations": 1000,
+      "updateInterval": 25,
+      "onlyDynamicEdges": false,
+      "fit": true
+    }
+  },
+  "interaction": {
+    "tooltipDelay": 350,
+    "hideEdgesOnDrag": false,
+    "multiselect": true
+  }
+}

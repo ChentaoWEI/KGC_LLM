@@ -1,0 +1,6 @@
+Walter John Savitch (born February 21, 1943) is best known for defining the complexity class NL (nondeterministic logarithmic space), and for Savitch's theorem, which defines a relationship between the NSPACE and DSPACE complexity classes.  His work in establishing complexity classes has helped to create the background against which non-deterministic and probabilistic reasoning can be performed. 
+He has also done extensive work in the field of natural language processing and mathematical linguistics.  He has been focused on computational complexity as it applies to genetics and biology for over 10 years.
+Aside from his work in theoretical computer science, Savitch has written a number of textbooks for learning to program in C/C++, Java, Ada, Pascal and others.
+Savitch received his PhD in mathematics from University of California, Berkeley in 1969 under the supervision of Stephen Cook.
+Since then he has been a professor at University of California, San Diego where he is currently a professor emeritus in the computer science department.
+

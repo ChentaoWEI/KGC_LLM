@@ -1,0 +1,3 @@
+Rudolf Bayer (born 3 March 1939) is a German computer scientist. 
+He is professor emeritus of Informatics at the Technical University of Munich where he had been employed since 1972. He is noted for inventing three data sorting structures: the B-tree (with Edward M. McCreight), the UB-tree (with Volker Markl) and the red-black tree. 
+Bayer is a recipient of 2001 ACM SIGMOD Edgar F. Codd Innovations Award.  In 2005 he was elected as a fellow of the Gesellschaft für Informatik.

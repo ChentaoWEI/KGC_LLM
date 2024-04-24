@@ -1,0 +1,1 @@
+Karl Johan Åström (born August 5, 1934) is a  Swedish control theorist, who has made contributions to the fields of control theory and control engineering, computer control and adaptive control. In 1965, he described a general framework of Markov decision processes with incomplete information, what ultimately led to the notion of a Partially observable Markov decision process.

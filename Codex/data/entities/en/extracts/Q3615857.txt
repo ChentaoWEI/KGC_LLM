@@ -1,0 +1,7 @@
+Andrea Mazzucchi (born March 19, 1966) is an Italian American entrepreneur, network architect, and computer specialist
+He played a significant role in the early development of Internet in Italy and other countries in Eastern Europe, such as Croatia.
+Being interested in the regulatory side as well as the technical, he also played a key role in the Internet governance of Italy since 1985. He co-founded  in 1998 the ccTLD ".it" policy board (Naming Authority), where he eventually became Chair of the Board of Directors. In 2004, once the Naming Authority evolved into the Rules Committee, he was one of the appointed members.Focused since the very beginning toward the Open Source, in 1992 he co-founded Nexus, the first ISP in Italy based exclusively on Linux and open technologies.
+In 1993, Mazzucchi co-founded Gedi, one of the first companies in Italy for distance learning.
+In 1995, he founded Istria On Line, the first ISP in Croatia, and worked on Internet pilot projects in Bulgaria and Hungary, mostly establishing TCP/IP over X.25 Internet connections for international businesses.
+He is also an active member of the Internet community, being co-founder, with Giancarlo Livraghi, of ALCEI, initially conceived as the Italian branch of EFF.
+Moreover, he is co-founder of the Italian chapter of ISOC where he served on the first Board of Directors.

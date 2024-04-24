@@ -1,0 +1,2 @@
+Walter Bright is an American computer programmer who created the D programming language, the Zortech C++ compiler, and the Empire computer game. 
+Bright was the main developer of the first C++ compiler to translate source code directly to object code without using C as an intermediate, and Zortech C++ (later becoming Symantec C++, now Digital Mars C++). Before designing the C++ compiler, he developed the Datalight C compiler, also sold as Zorland C and later Zortech C.

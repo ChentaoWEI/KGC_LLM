@@ -1,0 +1,2 @@
+Hans Peter Anvin (born 12 January 1972), also known as H. Peter Anvin, Peter Anvin, or even hpa, is a Swedish-American computer programmer who has distinguished himself by his contributions to free and open-source software projects.
+Anvin is the originator of SYSLINUX, Linux Assigned Names and Numbers Authority (LANANA), and various Linux kernel features.

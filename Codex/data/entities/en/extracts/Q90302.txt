@@ -1,0 +1,5 @@
+Gottfried Ungerboeck (born 15 March 1940, Vienna) is an Austrian communications engineer.
+Ungerboeck received an electrical engineering degree (with emphasis on telecommunications) from Vienna University of Technology in 1964, and a Ph.D. from the Swiss Federal Institute of Technology, Zurich, in 1970. He joined IBM Austria as a systems engineer in 1965, and the IBM Zurich Research Laboratory in 1967.
+At Zurich he worked on digital signal processing and switching systems, communication and information theory. Among many contributions to the theory of data transmission, he invented trellis coded modulation.
+Ungerboeck joined Broadcom in 1998 as Technical Director for Communication business line.
+He has won the 2018 Shannon Award of the IEEE Information Theory Society.

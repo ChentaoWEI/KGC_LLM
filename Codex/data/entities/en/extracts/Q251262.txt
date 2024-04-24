@@ -1,0 +1,2 @@
+James Lee Massey (February 11, 1934 – June 16, 2013) was an information theorist and
+cryptographer, Professor Emeritus of Digital Technology at ETH Zurich. His notable work includes the application of the Berlekamp–Massey algorithm to linear codes, the design of the block ciphers IDEA (with Xuejia Lai) and SAFER, and the Massey-Omura cryptosystem (with Jim K. Omura).

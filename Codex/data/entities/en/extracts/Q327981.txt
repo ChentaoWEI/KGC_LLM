@@ -1,0 +1,3 @@
+John Alan Robinson (9 March 1930 – 5 August 2016) was a philosopher, mathematician, and computer scientist. He was a professor emeritus at Syracuse University.
+Alan Robinson's major contribution is to the foundations of automated theorem proving. His unification algorithm eliminated one source of combinatorial explosion in resolution provers; it also prepared the ground for the logic programming paradigm, in particular for the Prolog language. 
+Robinson received the 1996 Herbrand Award for Distinguished Contributions to Automated reasoning.

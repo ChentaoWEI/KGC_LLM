@@ -1,0 +1,9 @@
+Wolfgang Gerhard Herbert Steinert (May 8, 1940 – April 22, 2010) was a German electrical engineer.
+After studying at RWTH Aachen University and Darmstadt University of Technology he worked for the Verband Deutscher Elektrotechniker (VDE) from 1968 to 2000. As a testing engineer he was head of the test laboratory of the VDE from 1971 until 1993 (thus among other things responsible for assigning the VDE f-mark according to Postal Decree 171/1967 and implementing the German Law on Radio Interference of 1978). Being a "competent body" within the framework of the German EMC Law of 1992 from 1993 until his retirement in 2000, he acted as an intermediary between the rules of the European and German authorities and the need of the manufacturers of electric devices for reliable market access. Furthermore he contributed to the work of several standardization committees (including DKE/K 761; head of the German delegation to CISPR/A).
+Wolfgang Steinert got married in 1970 and had one son. In 2010 he died due to colorectal cancer.
+Publications in German, e.g.
+
+Begrenzung von Funkstörungen, von Beeinflussungen und von Rückwirkungen. In: Einführung in das VDE-Vorschriftenwerk / hrsg. von Alfred Warner. Berlin 1983 (VDE-Schriftenreihe ; 50). ISBN 3-8007-1252-0and English, e.g.
+
+Standards and Regulations (comparing FCC 15.J - computing devices/1979, CISPR 11, 14 and VDE 0871, 0875). In: EMC Technology & Interference Control News 2 (1983), p. 10. ISSN 0278-4270.
+

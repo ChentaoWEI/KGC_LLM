@@ -1,0 +1,2 @@
+Julius Wilhelm Gintl (November 12, 1804 – December 22, 1883) was an Austrian physicist. He was notable as the developer of an early form of duplex electrical telegraph, which allowed two messages to be transmitted on a single wire, in opposite directions. This "duplex" communication was an early specific case of the general practice of multiplexing.
+Gintl's method would be developed to economic viability by J. B. Stearns, and the refined method used in Edison's implementation of a quadruplex telegraph.

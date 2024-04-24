@@ -1,0 +1,2 @@
+Your task is to verify whether a specified relationship between two entities exists in a knowledge graph based on common sense. Given a triple formatted as "'Entity 1' [relationship] 'Entity 2'", provide "True" or "False" to indicate whether the relationship exists and include a reason for your judgment. The response format should be: "{True/False}. Reason:...".
+You need to think carefully to get your answer.

@@ -1,0 +1,4 @@
+James Clark (born 23 February 1964) is the author of groff and expat, and has done much work with open-source software and XML.  
+Born in London and educated at Charterhouse and Merton College, Oxford, Clark has lived in Bangkok, Thailand since 1995, and is now a permanent resident. He owns a company called Thai Open Source Software Center, which provides him a legal framework for his open-source activities.
+For the GNU project, he wrote groff, as well as an XML editing mode for GNU Emacs.
+

@@ -1,0 +1,2 @@
+Gordon David Plotkin,  (born 9 September 1946) is a theoretical computer scientist in the School of Informatics at the University of Edinburgh. Plotkin is probably best known for his introduction of structural operational semantics (SOS) and his work on denotational semantics. In particular, his notes on A Structural Approach to Operational Semantics were very influential. He has contributed to many other areas of computer science.
+

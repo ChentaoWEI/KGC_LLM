@@ -1,0 +1,3 @@
+John McCarthy (September 4, 1927 – October 24, 2011) was an American computer scientist and cognitive scientist. McCarthy was one of the founders of the discipline of artificial intelligence. He coined the term "artificial intelligence" (AI), developed the Lisp programming language family, significantly influenced the design of the ALGOL programming language, popularized time-sharing, invented garbage collection, and was very influential in the early development of AI.
+McCarthy spent most of his career at Stanford University. He received many accolades and honors, such as the 1971 Turing Award for his contributions to the topic of AI, the United States National Medal of Science, and the Kyoto Prize.
+

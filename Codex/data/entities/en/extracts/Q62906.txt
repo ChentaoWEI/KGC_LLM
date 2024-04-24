@@ -1,0 +1,1 @@
+Jochen Liedtke (26 May 1953 – 10 June 2001) was a German computer scientist, noted for his work on microkernels, especially the creation of the L4 microkernel family.

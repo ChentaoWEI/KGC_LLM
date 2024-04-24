@@ -1,0 +1,2 @@
+Werner Koch (born July 11, 1961) is a German free software developer. He is best known as the principal author of the GNU Privacy Guard (GnuPG or GPG). He was also Head of Office and German Vice-Chancellor of the Free Software Foundation Europe. He is  the winner of Award for the Advancement of Free Software in 2015 for founding GnuPG.Journalists and security professionals rely on GnuPG, and Edward Snowden used it to evade monitoring whilst he leaked classified information from the U.S. National Security Agency.
+

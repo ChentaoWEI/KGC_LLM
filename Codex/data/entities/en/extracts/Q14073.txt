@@ -1,0 +1,1 @@
+Alexia Massalin (formerly Henry Massalin) is an American computer scientist and programmer.  She pioneered the concept of superoptimization, and designed the Synthesis kernel, a small kernel with a Unix compatibility layer that makes heavy use of self-modifying code for efficiency.
