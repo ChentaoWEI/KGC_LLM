@@ -6,6 +6,8 @@ from tqdm import tqdm
 import math
 from transformers import GPT2Tokenizer
 
+api = 'your key'
+
 def count_tokens(system_message, assistant_message):
     # 创建一个GPT-2的分词器
     tokenizer = GPT2Tokenizer.from_pretrained('gpt2')
@@ -27,7 +29,7 @@ def preprocess_WN(df):
 
 def get_response(system_message, prompt, assistant_message = None):
     # API key
-    client = openai.OpenAI(api_key='your key')
+    client = openai.OpenAI(api_key=api)
 
     response = client.chat.completions.create(
         model="gpt-3.5-turbo",
@@ -45,7 +47,7 @@ def get_response(system_message, prompt, assistant_message = None):
 
 def get_response_2(system_message, prompt, assistant_message = None):
     # API key
-    client = openai.OpenAI(api_key='your key')
+    client = openai.OpenAI(api_key=api)
 
     response = client.chat.completions.create(
         model="gpt-3.5-turbo",
@@ -63,7 +65,7 @@ def get_response_2(system_message, prompt, assistant_message = None):
 
 def get_response_gpt4(system_message, prompt, assistant_message = None):
     # API key
-    client = openai.OpenAI(api_key='your key')
+    client = openai.OpenAI(api_key=api)
 
 
     response = client.chat.completions.create(
