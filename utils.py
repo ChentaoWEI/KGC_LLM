@@ -29,7 +29,7 @@ def preprocess_WN(df):
 
 def get_response(system_message, prompt, assistant_message = None):
     # API key
-    client = openai.OpenAI(api_key=api)
+    client = openai.OpenAI(api_key='your key')
 
     response = client.chat.completions.create(
         model="gpt-3.5-turbo",
@@ -47,7 +47,7 @@ def get_response(system_message, prompt, assistant_message = None):
 
 def get_response_2(system_message, prompt, assistant_message = None):
     # API key
-    client = openai.OpenAI(api_key=api)
+    client = openai.OpenAI(api_key='your key')
 
     response = client.chat.completions.create(
         model="gpt-3.5-turbo",
@@ -110,11 +110,14 @@ def extract_pred(response):
         pred.extend(cleaned_matches)
     return pred
 
-def preprocess_df(df):
+def preprocess_df(df, codex = None):
     # Generate prompt for each triple.
     df = df.copy()
-    # df[['head_id','relation_id','tail_id']] = df[['head','relation','tail']]
-    # df[['head', 'relation', 'tail']] = df[['head', 'relation', 'tail']].apply(lambda x: x.apply(codex.entity_label if x.name == 'head' or x.name == 'tail' else codex.relation_label))
+    if not codex:
+        df['prompt'] = df.apply(lambda x: f"What is the relationship between '{x['head']}' and '{x['tail']}'?", axis=1)
+    else:  
+        df[['head_id','relation_id','tail_id']] = df[['head','relation','tail']]
+        df[['head', 'relation', 'tail']] = df[['head', 'relation', 'tail']].apply(lambda x: x.apply(codex.entity_label if x.name == 'head' or x.name == 'tail' else codex.relation_label))
     df['prompt'] = df.apply(lambda x: f"What is the relationship between '{x['head']}' and '{x['tail']}'?", axis=1)
     return df
 

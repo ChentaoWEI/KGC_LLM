@@ -9,10 +9,11 @@ import warnings
 warnings.filterwarnings("ignore")
 root = os.getcwd()
 sys.path.append(root)
+print(root)
 
 from utils import ask_first, ask_twice ,preprocess_df, process_verification, extract_pred
 
-from Codex.codex import Codex
+from Codex.codex.codex import Codex
 
 
 def mid_process(df):
@@ -20,7 +21,7 @@ def mid_process(df):
     df['pred_relation'] = df['response'].apply(lambda x: extract_pred(x))
     # df.pred_relation = df.pred_relation.apply(lambda x: ast.literal_eval(x))
     df['true_relation'] = df['relation']
-    
+    df.loc[df['Label'] == 0, 'true_relation'] = 'relationship is ambiguous'
     return df
 
 def get_df(codex, pos = False, seed = 42, pos_size = 500, neg_size = 500):
@@ -43,7 +44,9 @@ def get_df(codex, pos = False, seed = 42, pos_size = 500, neg_size = 500):
         df = pd.concat([test_triple_pos, test_triple_neg])
     
     shuffled_df = df.sample(frac=1, random_state=seed)
+    # print(shuffled_df.head())
     shuffled_df = preprocess_df(shuffled_df, codex)
+    print(shuffled_df.head())
     
     return shuffled_df
 
@@ -57,7 +60,7 @@ if __name__ == '__main__':
     all_relations = codex.relations()
     gpt4 = False
     
-    zero_shot_list = ['zero_shot_one_relation', 'zero_shot_multi_relation', 'zero_cot_one_relation']
+    zero_shot_list = ['zero_cot_multi_relation_non_ambiguous']
     few_shot_list = [] #  ['few_shot_multi_relation']
     root_path = 'results/codex'
     
