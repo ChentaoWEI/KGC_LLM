@@ -34,7 +34,7 @@ if __name__ == '__main__':
     
     gpt4 = True
     
-    zero_shot_list = ['zero_cot_multi_relation'] # ['zero_shot_one_relation', 'zero_shot_multi_relation', 'zero_cot_one_relation', 'zero_cot_multi_relation']
+    zero_shot_list = ['zero_shot_one_relation', 'zero_shot_multi_relation', 'zero_cot_one_relation', 'zero_cot_multi_relation']
     few_shot_list = ['few_shot_one_relation', 'few_shot_multi_relation']
     
     root_path = 'results/WN18RR'

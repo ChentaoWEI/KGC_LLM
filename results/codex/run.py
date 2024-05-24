@@ -60,8 +60,10 @@ if __name__ == '__main__':
     all_relations = codex.relations()
     gpt4 = False
     
-    zero_shot_list = ['zero_cot_multi_relation_non_ambiguous']
-    few_shot_list = [] #  ['few_shot_multi_relation']
+    zero_shot_list = ['zero_cot_multi_relation_non_ambiguous', 'zero_cot_one_relation_non_ambiguous', 'zeroshot_multi_relation_non_ambiguous', 'zeroshot_multi_relation_with_ambiguous', 'zeroshot_one_relation_nonambiguous',
+                      'zeroshot_one_relation_withambiguous']
+    few_shot_list = ['few_shot_multi_relation_none_ambiguous', 'few_shot_multi_relation_with_ambiguous', 'few_shot_one_relation_non_ambiguous',
+                     'few_shot_one_relation_with_ambiguous']
     root_path = 'results/codex'
     
     
