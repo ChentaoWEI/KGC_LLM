@@ -7,7 +7,7 @@ This project contains multiple datasets and their corresponding evaluation and r
 - **WN18RR**: Contains the WN18RR dataset.
 - **other**: Contains other datasets, including Yago3-10.
 
-Datasets source: [datasets_knowledge_embedding](https://github.com/villmow/datasets_knowledge_embedding).
+Datasets source: [datasets_knowledge_embedding](https://github.com/villmow/datasets_knowledge_embedding), [codex](https://github.com/tsafavi/codex).
 
 ## File Descriptions
 
@@ -51,5 +51,5 @@ Contains all utility classes. Before running the experiments, replace the `api` 
 
 4. Run the experiments:
     ```bash
-    python result/run.py
+    python result/dataset/run.py
     ```
